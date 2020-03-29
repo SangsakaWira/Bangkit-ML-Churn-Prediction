@@ -1,0 +1,2 @@
+# CHURN PREDICTION MODELLING USING TENSORFLOW 
+By: sangsakawira & nurnaff
